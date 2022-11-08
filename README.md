@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Alexandr
 
 ## I'm self-taught in front-end development
-###-⚡ I love writing code
-###-🥅 Constantly learning new things
-###-💪 I love doing sports
+-⚡ I love writing code
+-🥅 Constantly learning new things
+-💪 I love doing sports
 
 
 ![](https://komarev.com/ghpvc/?username=ADmurAJI)
