@@ -8,11 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ADmurAJI)
 
-  <img align="center"![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI) />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADmurAJI)" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADmurAJI)
+
 
 
 ### Contact with me: 
