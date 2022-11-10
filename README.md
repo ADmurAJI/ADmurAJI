@@ -8,8 +8,18 @@
 
 ![](https://komarev.com/ghpvc/?username=ADmurAJI)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&layout=demo)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADmurAJI)
+<a href="#">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&layout=demo"
+  />
+</a>
+<a href="#">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=ADmurAJI"
+  />
+</a>
 
 
 
