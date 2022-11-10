@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alexandr
+### Hi there 👋, I'm Aleksandr
 
 ## I'm self-taught in front-end development
 -⚡ I love writing code  
