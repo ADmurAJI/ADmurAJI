@@ -6,9 +6,18 @@
 -💪 I love doing sports  
 
 
-![](https://komarev.com/ghpvc/?username=ADmurAJI)   
-![](https://www.codewars.com/users/ADmurAJI/badges/micro)   
+<a href="#">
+  <img align="center" src="https://komarev.com/ghpvc/?username=ADmurAJI" />
+</a>
 
+<a href="#">
+  <img
+    align="center"
+    src="https://www.codewars.com/users/ADmurAJI/badges/micro"
+  />
+</a>
+
+<br />
 
 <a href="#">
   <img
