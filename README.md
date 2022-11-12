@@ -10,7 +10,7 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=ADmurAJI" />
 </a>
 
-<a href="#">
+<a href="https://www.codewars.com/users/ADmurAJI">
   <img
     align="center"
     src="https://www.codewars.com/users/ADmurAJI/badges/micro"
