@@ -23,7 +23,7 @@
 <a href="#">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&layout=demo"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&layout=demo&langs_count=5"
   />
 </a>
 <a href="#">
