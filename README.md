@@ -38,7 +38,7 @@
 ### Contact with me: 
 
 [<img align="left" width="22px" src="https://www.svgrepo.com/show/349554/vk.svg" alt="vk"/>][VK]
-[<img align="left" width="22px" src="https://www.svgrepo.com/show/349554/vk.svg" alt="vk"/>][TG]
+[<img align="left" width="22px" src="https://www.svgrepo.com/svg/354443/telegram" alt="vk"/>][TG]
 
 <br/> 
 
