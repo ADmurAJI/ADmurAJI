@@ -38,6 +38,7 @@
 ### Contact with me: 
 
 [<img align="left" width="22px" src="https://www.svgrepo.com/show/349554/vk.svg" alt="vk"/>][VK]
+[<img align="left" width="22px" src="https://www.svgrepo.com/show/349554/vk.svg" alt="vk"/>][TG]
 
 <br/> 
 
@@ -52,3 +53,4 @@
 
     
 [VK]:https://vk.com/dr.falkone
+[TG]:https://t.me/dr_falkone
