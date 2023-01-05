@@ -22,7 +22,7 @@
 <a href="#">
   <img
     align="center"
-    src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"
   />
 </a>
 <a href="#">
