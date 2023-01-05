@@ -22,6 +22,12 @@
 <a href="#">
   <img
     align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&layout=demo&langs_count=10"
+  />
+</a>
+<a href="#">
+  <img
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=ADmurAJI"
   />
 </a>
