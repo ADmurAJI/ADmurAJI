@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aleksandr
 
-## I'm self-taught in front-end development
+## I'm front-end development
 -⚡ I love writing code  
 -🥅 Constantly learning new things  
 -💪 I love doing sports  
