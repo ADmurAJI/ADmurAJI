@@ -33,6 +33,7 @@
 
 [<img align="left" width="22px" src="https://www.svgrepo.com/show/349554/vk.svg" alt="vk"/>][VK]
 [<img align="left" width="22px" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="telegram"/>][TG]
+[<img align="left" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin"/>][IN]
 
 <br/> 
 
@@ -51,3 +52,4 @@
     
 [VK]:https://vk.com/dr.falkone
 [TG]:https://t.me/dr_falkone
+[IN]:https://www.linkedin.com/in/aleksandr-zaytsev-182b5b260/
