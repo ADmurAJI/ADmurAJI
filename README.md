@@ -8,7 +8,7 @@
 
 <a href="#">
   <img align="center" src="https://komarev.com/ghpvc/?username=ADmurAJI" />
-  https://www.codewars.com/users/ADmurAJI/badges/micro
+  <img align="center" src="https://www.codewars.com/users/ADmurAJI/badges/small" />
 </a>
 
 <br />
