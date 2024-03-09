@@ -1,23 +1,20 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20, I'm%20Aleksandr;I'm%20frontend%20development%2B%20;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-### Hi there 👋, I'm Aleksandr
-
-## I'm frontend development
--⚡ I love writing code  
--🥅 Constantly learning new things  
--💪 I love doing sports  
-
+<h3 align="center">Hey there, I'm <a href="https://github.com/ADmurAJI">ADmurAJI</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <a href="#">
   <img align="center" src="https://komarev.com/ghpvc/?username=ADmurAJI" />
   <img align="center" src="https://www.codewars.com/users/ADmurAJI/badges/micro" />
 </a>
 
-<br />
-<br />
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ADmurAJI&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 
 <a href="#">
   <img
@@ -26,23 +23,13 @@
   />
 </a>
 
-<a href="#">
-  <img
-    align="center"
-    //src="https://github-readme-stats.vercel.app/api?username=ADmurAJI"
-  />
-</a>
-
-
-
-### Contact with me: 
+## Contact with me: 
 
 [<img align="left" width="22px" src="https://www.svgrepo.com/show/349554/vk.svg" alt="vk"/>][VK]
 [<img align="left" width="22px" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="telegram"/>][TG]
 
-<br/> 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"/>
