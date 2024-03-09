@@ -25,9 +25,9 @@
 
 ## Top Respositorys:
   <p align="left">
-     <a href="https://github.com/ADmurAJI/github-search"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=github-search&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/ADmurAJI/portfolio__website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=ADmurAJI/portfolio__website&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/ADmurAJI/Bank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=Bank&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/ADmurAJI/github-search"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ADmurAJI&repo=github-search&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/ADmurAJI/portfolio__website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ADmurAJI&repo=ADmurAJI/portfolio__website&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ADmurAJI/Bank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ADmurAJI&repo=Bank&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 ## Languages and Tools:
