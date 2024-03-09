@@ -34,7 +34,6 @@
 
 [<img align="left" width="22px" src="https://www.svgrepo.com/show/349554/vk.svg" alt="vk"/>][VK]
 [<img align="left" width="22px" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="telegram"/>][TG]
-[<img align="left" width="24px" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="linkedin"/>][IN]
 
 <br/> 
 
