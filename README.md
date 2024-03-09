@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="#">
+<a href="#" align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=ADmurAJI" />
   <img align="center" src="https://www.codewars.com/users/ADmurAJI/badges/micro" />
 </a>
@@ -25,8 +25,8 @@
 
 <br/>
 
-## My languages
-<a href="#">
+## My languages:
+<a href="#" align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&langs_count=8&layout=pie"
