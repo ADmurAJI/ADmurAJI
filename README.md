@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20, I'm%20Aleksandr;I'm%20frontend%20development%2B%20;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20, I'm%20Aleksandr;I'm%20frontend%20development%20;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <br/>
@@ -11,10 +11,10 @@
 
 <br/>
 
-<a href="#" align="center">
+<p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=ADmurAJI" />
   <img align="center" src="https://www.codewars.com/users/ADmurAJI/badges/micro" />
-</a>
+</p>
 
 <br/>
 
@@ -26,12 +26,12 @@
 <br/>
 
 ## My languages:
-<a href="#" align="center">
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&langs_count=8&layout=pie"
   />
-</a>
+</p>
 
 <br/>
 
