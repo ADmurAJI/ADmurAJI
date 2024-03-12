@@ -31,7 +31,7 @@
   <a href="https://github.com/likezninjaz/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&layout=compact&theme=dark&hide_border=true&stroke=f53b3b" />
   </a>  
 </p>
 
