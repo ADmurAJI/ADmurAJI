@@ -11,7 +11,15 @@
   <img align="center" src="https://www.codewars.com/users/ADmurAJI/badges/micro" />
 </p>
 
-## My Stats:
+## Activity On GitHub:
+<p align="center">
+  <a href="https://github.com/ADmurAJI">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ADmurAJI&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/ADmurAJI/github-readme-stats">
     <img
@@ -25,14 +33,6 @@
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&layout=compact&theme=vision-friendly-dark" />
   </a>  
-</p>
-
-
-## Activity On GitHub:
-<p align="center">
-  <a href="https://github.com/ADmurAJI">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ADmurAJI&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
 </p>
 
 ## Top Respositorys:
