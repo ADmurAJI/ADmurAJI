@@ -36,7 +36,7 @@
   </a>  
 </p>
 
-## Top Respositorys:
+## Top Repositorys:
   <p align="left">
      <a href="https://github.com/ADmurAJI/github-search"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ADmurAJI&repo=github-search&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/ADmurAJI/todo-list-react-redux-ts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ADmurAJI&repo=todo-list-react-redux-ts&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
