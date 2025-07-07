@@ -1,7 +1,8 @@
 ## Introduction
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi%20there%2C%20I%27m%20Aleksandr;Frontend%20Developer;3%2B%20years%20of%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi%20there%2C%20I%27m%20Aleksandr;Frontend%20Developer;4%2B%20Years%20of%20Experience&font=JetBrains%20Mono&center=true&width=700&height=45&color=00F7FF&vCenter=true&pause=1000&size=26&background=00000000" />
 </p>
+
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/ADmurAJI">ADmurAJI</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
