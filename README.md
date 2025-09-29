@@ -55,8 +55,7 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="nestjs"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/prisma/prisma.png" alt="prisma"/>
-
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="prisma"/>
 <br/>
 
 ## Contact with me: 
