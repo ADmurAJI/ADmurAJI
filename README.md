@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi%20there%2C%20I%27m%20Aleksandr;Frontend%20Developer;4%2B%20Years%20of%20Experience&font=JetBrains%20Mono&center=true&width=700&height=45&color=00F7FF&vCenter=true&pause=1000&size=26&background=00000000" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi%20there%2C%20I%27m%20Aleksandr;Frontend%20Developer;5%2B%20Years%20of%20Experience&font=JetBrains%20Mono&center=true&width=700&height=45&color=00F7FF&vCenter=true&pause=1000&size=26&background=00000000" />
 </p>
 
 
