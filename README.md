@@ -57,8 +57,8 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="nestjs"/>
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="prisma"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="vue"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="vite"/>
-<img align="left" width="22px" src="https://raw.githubusercontent.com/vuejs/pinia/v2/packages/docs/public/logo.svg" alt="pinia"/>
+<img align="left" width="20px" src="https://raw.githubusercontent.com/vuejs/pinia/v2/packages/docs/public/logo.svg" alt="pinia"/>
+<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="vite"/>
 
 <br/>
 
