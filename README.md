@@ -56,6 +56,12 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="nestjs"/>
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="prisma"/>
+
+<!-- Vue stack -->
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="vue"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="vite"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/pinia/pinia.png" alt="pinia"/>
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs"/>
 <br/>
 
 ## Contact with me: 
