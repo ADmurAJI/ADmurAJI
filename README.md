@@ -23,10 +23,9 @@
 
 <p align="center">
   <a href="https://github.com/ADmurAJI/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=ADmurAJI&count_private=true&show_icons=true&custom_title=ADmurAJI's%20Github%20Status&hide=issues&theme=dark&hide_border=true&stroke=f53b3b"
-    />
+    <img height="150"
+  src="https://stats-github-readme.vercel.app/api/top-langs/?username=ADmurAJI&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css"
+/>
    </a>
 
   <a href="https://github.com/likezninjaz/github-readme-stats">
