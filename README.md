@@ -35,14 +35,6 @@
   </a>  
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-
 ## Top Repositorys:
   <p align="left">
      <a href="https://github.com/ADmurAJI/github-search"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ADmurAJI&repo=github-search&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -51,21 +43,34 @@
   </p>
 
 ## Languages and Tools:
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="gulp"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="nestjs"/>
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="prisma"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="vue"/>
-<img align="left" width="20px" src="https://raw.githubusercontent.com/vuejs/pinia/v2/packages/docs/public/logo.svg" alt="pinia"/>
-<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="vite"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/WebStorm-20232A?style=for-the-badge&logo=webstorm&logoColor=00CDD7" />
+  <img src="https://img.shields.io/badge/ChatGPT-20232A?style=for-the-badge&logo=openai&logoColor=74AA9C" />
+  <img src="https://img.shields.io/badge/Codex-20232A?style=for-the-badge&logo=openai&logoColor=74AA9C" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/Gulp-20232A?style=for-the-badge&logo=gulp&logoColor=CF4647" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=2D3748" />
+  <img src="https://img.shields.io/badge/Pinia-20232A?style=for-the-badge&logo=pinia&logoColor=FFD859" />
+  <img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF" />
+</p>
 
 <br/>
 
