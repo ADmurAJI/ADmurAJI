@@ -22,17 +22,25 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ADmurAJI/github-readme-stats">
+  <a href="https://github.com/ADmurAJI">
     <img height="150"
-  src="https://stats-github-readme.vercel.app/api/top-langs/?username=ADmurAJI&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css"
-/>
-   </a>
+      src="https://stats-github-readme.vercel.app/api/top-langs/?username=ADmurAJI&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css"
+    />
+  </a>
 
-  <a href="https://github.com/likezninjaz/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADmurAJI&layout=compact&theme=dark&hide_border=true&stroke=f53b3b" />
+  <a href="https://github.com/ADmurAJI">
+    <img height="150"
+      src="https://stats-github-readme.vercel.app/api?username=ADmurAJI&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    />
   </a>  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 ## Top Repositorys:
