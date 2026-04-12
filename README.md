@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Nuxt-20232A?style=for-the-badge&logo=nuxt&logoColor=00DC82" />
+  <img src="https://img.shields.io/badge/Svelte-20232A?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
 </p>
 
 <!-- State / Data -->
