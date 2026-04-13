@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://github.com/ADmurAJI">
     <img height="150"
-      src="https://stats-github-readme.vercel.app/api/top-langs/?username=ADmurAJI&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=css"
+      src="https://stats-github-readme.vercel.app/api/top-langs/?username=ADmurAJI&layout=compact&theme=dark&hide_border=true&langs_count=6&&hide=html,css"
     />
   </a>
 
